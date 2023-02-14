@@ -78,6 +78,7 @@ h1{
     background-color: #60C1BD;
     margin-left: 113px;
     margin-right:200px;
+    display: block;
     
     
     
@@ -119,7 +120,74 @@ h1{
   
 }
 
+.block{
+    border: 1px;
+    position: absolute;
+    background: #f2f3f0;
+    left: 173px;
+    right: 761px;
+    top: 750px;
 
+}
+
+article{
+    left: 177px;
+    right: 92px;
+    top: 49px;
+    height: 111px;
+    position: relative;
+}
+
+small{
+    left: 177px;
+    right: 147px;
+    top: 101px;
+    height: 48px;
+    text-align: center;
+    display: block;
+}
+
+.girl__img{
+    left: 49px;
+    right: 400px;
+    top: 49px;
+    height: 80px;
+    position:absolute;
+}
+
+.block__g{
+    left: 764px;
+    right: 172px;
+    top: 750px;
+    position: absolute;
+    background: #f2f3f0;
+}
+
+.block__3{
+    left: 178px;
+    right: 140px;
+    top: 97px;
+    height: 45px;
+    text-align: center;
+    display: block;
+}
+
+.block__2{
+    left: 178px;
+    right: 161px;
+    top: 45px;
+    height: 102px;
+    position: relative;
+}
+
+.pets3{
+    left: 30px;
+    right: 357px;
+    top: 47px;
+    height: 49px;
+    display:inline-block;
+    position:absolute;
+}
 
 
 
