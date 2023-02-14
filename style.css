@@ -11,6 +11,7 @@ header{
     overflow: hidden;
     
 }
+/*первый блок*/
 
 .block1{
     background-color: #284854;
@@ -95,4 +96,31 @@ h1{
     background-color: #8BC441;
     
 }
+
+/*второй блок*/
+
+.small_text{
+    left: 558px;
+    right: 582px;
+    top: 1096px;
+    height: 2855px;
+    position: absolute;
+    color: #60C1BD;
+}
+
+.big_text{
+    left: 550px;
+    right: 451px;
+    top: 1118px;
+    height: 2790px;
+    position: absolute;
+    color: #284854;
+    white-space: nowrap;
+  
+}
+
+
+
+
+
 
