@@ -22,7 +22,6 @@
     margin-left: 113px;
     margin-right:200px;
     display: block;
-    
 }
 
 .menu__title{
@@ -193,6 +192,13 @@ h5 .blockvet{
     position: absolute;
     color: #284854;
     font-size: 15px;
+}
+
+.men{
+    top: 1742px;
+    right: 217px;
+    left: 938;
+    
 }
 /*block3*/
 
