@@ -200,6 +200,40 @@ h5 .blockvet{
     left: 938;
     
 }
+
+.dog_3{
+    top: 2121px;
+    right: 924px;
+    left: 231px;
+    position: absolute;
+}
+
+.title__3{
+    top: 2120px;
+    right: 669px;
+    height: 1834px;
+    left: 646px;
+    position: absolute;
+    color: #798B56;
+}
+
+.title__4{
+    top: 2157px;
+    right: 297px;
+    height: 1730px;
+    left: 646px;
+    position: absolute;
+    color: #8BC441;
+}
+
+.contant__text3{
+    top: 2284px;
+    right: 305px;
+    height: 1581px;
+    left: 646px;
+    position: absolute;
+    color: #284854;
+}
 /*block3*/
 
 
@@ -207,6 +241,51 @@ h5 .blockvet{
     background-color: darkgray;
     width: 1440px;
     height: 601px;
+}
+
+.pets_4{
+    top: 2569px;
+    right: 807px;
+    left: 200px;
+    position: absolute;
+}
+
+.title__5{
+    top: 2564px;
+    right: 530px;
+    height: 1387px;
+    left: 745px;
+    position: absolute;
+    color: #60C1BD;
+    
+    
+}
+
+.title__6{
+    top:2599px ;
+    right: 381px;
+    height: 1318px;
+    left: 745px;
+    position: absolute;
+    color: #284854;
+}
+
+.contant__text4{
+    top: 2694px;
+    right: 191px;
+    height: 1125px;
+    left: 745px;
+    position: absolute;
+    color: #284854;
+}
+
+.why__indevets{
+    top: 2914px;
+    right: 548px;
+    left: 780px;
+    position: absolute;
+    background-color: #F4F6F0;
+    
 }
 
 
