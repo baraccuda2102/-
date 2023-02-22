@@ -22,6 +22,7 @@
     margin-left: 113px;
     margin-right:200px;
     display: block;
+    
 }
 
 .menu__title{
@@ -93,6 +94,7 @@ img{
 section{
     width: 506px;
     height: 203px;
+    top: 750px;
     border-radius: 4px;
     margin-left: 173px;
     background-color: #b0b1af;
@@ -294,16 +296,89 @@ h5 .blockvet{
 
 
 
-.header-thee{
+.contant-thee{
     background-color: #8BC441;
     width: 1440px;
     height: 438px;
 }
 
-.header-four{
+.sounds{
+   top: 3184px;
+   right: 339px;
+   height: 224px;
+   left: 585px;
+   position: absolute;
+   color: #F4F6F0;
+   font-size: 45px;
+}
+
+.text__one{
+    top: 3369px;
+    right: 616px;
+    height: 86px;
+    left: 585px;
+    position: absolute;
+    color: white;
+    font-size: 15px;
+}
+
+.text__two{
+    top: 3369px;
+    right: 274px;
+    height: 86px;
+    left: 956px;
+    position: absolute;
+    color: white;
+    font-size: 15px;
+}
+
+.dog__44{
+    top: 3187px;
+    right: 1020px;
+    left: 185px;
+    position: absolute;
+}
+
+.contant-four{
     background-color: white;
     width: 1400px;
     height: 438px;
+}
+
+.title__v{
+    top: 3656px;
+    right: 1155px;
+    height: 307px;
+    left: 152px;
+    position: absolute;
+    color: #284854;
+    font-size: 15px;
+}
+
+.explore{
+    top: 3699px;
+    right: 1182px;
+    height: 264px;
+    left: 152px;
+    position: absolute;
+}
+
+.become{
+    top: 3736px;
+    right: 1165px;
+    height: 226px;
+    left: 152px;
+    position: absolute;
+    margin-top:  19px;
+}
+
+.faq{
+    top: 3773px;
+    right: 1142px;
+    height: 189px;
+    left: 152px;
+    margin-top: 50px;
+    position: absolute;
 }
 
 
