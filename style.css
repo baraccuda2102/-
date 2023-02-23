@@ -361,6 +361,8 @@ h5 .blockvet{
     height: 264px;
     left: 152px;
     position: absolute;
+    white-space: nowrap;
+    color: #60C1BD;
 }
 
 .become{
@@ -369,7 +371,9 @@ h5 .blockvet{
     height: 226px;
     left: 152px;
     position: absolute;
-    margin-top:  19px;
+    margin-top:  20px;
+    white-space: nowrap;
+    color: #60C1BD;
 }
 
 .faq{
@@ -377,8 +381,191 @@ h5 .blockvet{
     right: 1142px;
     height: 189px;
     left: 152px;
-    margin-top: 50px;
+    margin-top: 40px;
     position: absolute;
+    white-space: nowrap;
+    color: #60C1BD;
+}
+
+.title__h{
+    top: 3656px;
+    right: 913px;
+    height: 307px;
+    left: 436px;
+    position: absolute;
+    color: #284854;
+    font-size: 15px;
+}
+
+.part{
+    top: 3699px;
+    right: 844px;
+    height: 263px;
+    left: 436px;
+    position: absolute;
+    white-space: nowrap;
+    color: #60C1BD;
+}
+
+.become__1{
+    top: 3736px;
+    right: 889px;
+    height: 226px;
+    left: 436px;
+    position: absolute;
+    white-space: nowrap;
+    color: #60C1BD;
+    margin-top: 15px;
+}
+
+.asked{
+    top: 3773px;
+    right: 824px;
+    height: 189px;
+    left: 436px;
+    position: absolute;
+    white-space: nowrap;
+    color: #60C1BD;
+    margin-top: 40px;
+}
+
+.find__us{
+    top: 3656px;
+    right: 326px;
+    height: 307px;
+    left: 1047px;
+    position: absolute;
+    color: #284854;
+    font-size: 15px;
+    white-space: nowrap;
+}
+
+.sprin{
+    top: 3699px;
+    right: 204px;
+    height: 263px;
+    left: 1047px;
+    position: absolute;
+    white-space: nowrap;
+    color: #60C1BD;
+}
+
+.suite{
+    top: 3722px;
+    right: 323px;
+    height: 240px;
+    left: 1047px;
+    position: absolute;
+    white-space: nowrap;
+    color: #60C1BD;
+}
+
+.PA{
+    top: 3745px;
+    right: 224px;
+    height: 217px;
+    left: 1047px;
+    position: absolute;
+    white-space: nowrap;
+    color: #60C1BD;;
+}
+
+.number__1{
+    top: 3793px;
+    right: 285px;
+    height: 169px;
+    left: 1047px;
+    position: absolute;
+    white-space: nowrap;
+    color: #60C1BD;
+}
+
+.number__2{
+    top: 3816px;
+    right: 281px;
+    height: 146px;
+    left: 1047px;
+    position: absolute;
+    white-space: nowrap;
+    color: #60C1BD;
+}
+
+.dog__5{
+    top: 3650px;
+    right: 542px;
+    left: 720px;
+    position: absolute;
+}
+
+.bottom__one{
+    top: 3900px;
+    right: 1192px;
+    height: 99px;
+    left: 152px;
+    position: absolute;
+    white-space: nowrap;
+    color: #60C1BD;
+}
+
+.bottom__two{
+    top: 3900px;
+    right: 1123px;
+    height: 99px;
+    left: 287px;
+    position: absolute;
+    white-space: nowrap;
+    color: #60C1BD;
+}
+
+.bottom__three{
+    top: 3900px;
+    right: 1056px;
+    height: 99px;
+    left: 356px;
+    position: absolute;
+    white-space: nowrap;
+    color: #60C1BD;
+}
+
+.bottom__four{
+    top: 3900px;
+    right: 946px;
+    height: 99px;
+    left: 423px;
+    position: absolute;
+    white-space: nowrap;
+    color: #60C1BD;
+}
+
+.bottom__five{
+    top: 3900px;
+    right: 871px;
+    height: 99px;
+    left: 533px;
+    position: absolute;
+    white-space: nowrap;
+    color: #60C1BD;
+}
+
+.bottom__six{
+    top: 3900px;
+    right: 742px;
+    height: 99px;
+    left: 608px;
+    position: absolute;
+    white-space: nowrap;
+    color: #60C1BD;
+}
+
+.bottom__seven{
+    top: 3919px;
+    right: 1182px;
+    height: 40px;
+    left: 152px;
+    position: absolute;
+    white-space: nowrap;
+    margin-top: 37px;
+    color: #284854;
 }
 
 
