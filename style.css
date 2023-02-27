@@ -4,6 +4,8 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    overflow-wrap: normal;
+    
     
 }
 
@@ -16,12 +18,13 @@
 
 .menu{
     border: 5px solid  #60C1BD;
-    padding: 5px;
+    padding: 1.5px;
     border-radius: 100px;
     background-color: #60C1BD;
     margin-left: 113px;
     margin-right:200px;
     display: block;
+    
     
 }
 
@@ -90,24 +93,76 @@ img{
 }
 
 /*mini block vet*/
-
-section{
-    width: 506px;
+.mini__block1{
     height: 203px;
-    top: 750px;
-    border-radius: 4px;
+    width: 506px;
+    border-radius: 2px;
+    background-color: #F4F6F0;
     margin-left: 173px;
-    background-color: #b0b1af;
-    
+    margin-top: -65px;
 }
 
-h5 .blockvet{
-    width: 237px;
-    height: 43px;
-    top: 0.5px;
-    left: -0.14px;
-    
+.girl{
+    top: 764px;
+    right: 1136px;
+    left: 203px;
+    position: absolute;
 }
+
+.aply{
+    top: 768px;
+    right: 853px;
+    height: 3170px;
+    left: 350px;
+    position: absolute;
+    color: #8BC441;
+}
+
+.text__aply{
+    top: 820px;
+    right: 908px;
+    height: 3107px;
+    left: 350px;
+    position: absolute;
+    color: #60C1BD;
+    white-space: nowrap;
+}
+
+.mini__block2{
+    width: 506px;
+    height: 196px;
+    border-radius: 2px;
+    background-color: #F4F6F0;
+    margin-left: 762px;
+    margin-top: -205px;
+}
+
+.frame__1{
+    top: 766px;
+    right: 529px;
+    left: 792px;
+    position: absolute;
+}
+
+.hospi{
+    top: 764px;
+    right: 333px;
+    height: 3174px;
+    left: 940px;
+    position: absolute;
+    color: #798B56;
+}
+
+.become__2{
+    top: 816px;
+    right: 312px;
+    height: 3111px;
+    left: 940px;
+    position: absolute;
+    color: #60C1BD;
+    white-space: nowrap;
+}
+
 /*block 2*/
 
 .container-one{
@@ -281,12 +336,12 @@ h5 .blockvet{
     color: #284854;
 }
 
-.why__indevets{
+button{
     top: 2914px;
     right: 548px;
     left: 780px;
     position: absolute;
-    background-color: #F4F6F0;
+    background-color: darkgray;
     
 }
 
